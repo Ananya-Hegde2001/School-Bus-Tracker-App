@@ -1,4 +1,4 @@
-School Bus Tracker App | Java, Android Studio, Firebase
+<h1>School Bus Tracker App | Java, Android Studio, Firebase</h1>
 
 Developed an Android app to enhance student safety by providing real-time GPS-based tracking for school buses.<br> This app allows parents to monitor bus location, speed, and estimated arrival time, ensuring peace of mind while giving schools better control over transportation. Built using Java, Android Studio, and Firebase, the app improves on traditional systems with fast and accurate tracking for efficient school bus management.
 
